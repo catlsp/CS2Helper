@@ -9,7 +9,8 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/cfdadbc7-7f29-4c22-bf08-d77fca75a0ac" width="400" />
 </div>
-
+    
+*(Если видео не воспроизводится, [скачайте его по ссылке](https://github.com/user-attachments/assets/cfdadbc7-7f29-4c22-bf08-d77fca75a0ac))*
 ---
 
 ##  Основной функционал
